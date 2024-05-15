@@ -2,6 +2,7 @@
 
 function dbsave() {
 	if(podminka){
-		save()
-}
+		osetri()
+	}
+	save()
 }
